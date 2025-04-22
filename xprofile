@@ -1,0 +1,1 @@
+xinput --set-prop "ELAN0525:00 04F3:31FC Touchpad" "libinput Accel Speed" 0.5

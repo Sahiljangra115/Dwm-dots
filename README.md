@@ -32,7 +32,7 @@ sudo pacman -S --needed \
 Clone your dotfiles repo and build dwm:
 
 # 1. Clone your repo
-git clone https://github.com/YOUR-USERNAME/dotfiles.git
+git clone https://github.com/Sahiljangra115/Dwm-dots.git
 cd dotfiles
 
 # 2. Build dwm
